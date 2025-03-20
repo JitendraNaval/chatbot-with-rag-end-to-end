@@ -1,0 +1,13 @@
+sentence-transformers
+langchain
+pypdf
+streamlit
+python-dotenv
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-chroma
+langchain-experimental
+
+-e .
+
